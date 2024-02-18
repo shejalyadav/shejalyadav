@@ -1,5 +1,5 @@
-# 💫 About Me:
-🔭 I'm Shejal Yadav, pursuing Bachelors of Technology in Computer science under full-stack Specialization.<br>🌱 I’m currently learning Dart<br>⚡ Fun fact : Beyond my coding endeavors, you'll find me spiking and diving on the volleyball court.<br>📫 Feel free to connect with me on LinkedIn or drop me an email at shejal.yadav@gmail.com.<br>
+# 💫 Hi,I'm Shejal!
+🔭 pursuing Bachelors of Technology in Computer science under full-stack Specialization.<br>🌱 I’m currently learning Dart<br>⚡ Fun fact : Beyond my coding endeavors, you'll find me spiking and diving on the volleyball court.<br>📫 Feel free to connect with me on LinkedIn or drop me an email at shejal.yadav@gmail.com.<br>
 
 
 ## 🌐 Socials:
