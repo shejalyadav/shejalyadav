@@ -1,5 +1,5 @@
 # 💫 Hi,I'm Shejal!
-🔭 pursuing Bachelors of Technology in Computer science under full-stack Specialization.<br> <br>🌱 I’m currently learning Dart<br><br>⚡ Fun fact : Beyond my coding endeavors, you'll find me spiking and diving on the volleyball court.<br><br>📫 Feel free to connect with me on LinkedIn or drop me an email at shejal.yadav@gmail.com.<br>
+🔭 pursuing Bachelors of Technology in Computer science under full-stack Specialization.<br> <br>🌱 I have expertise in Java , Spring , Flutter and MERN Stack. <br><br>⚡ Fun fact : Beyond my coding endeavors, you'll find me spiking and diving on the volleyball court.<br><br>📫 Feel free to connect with me on LinkedIn or drop me an email at shejal.yadav@gmail.com.<br>
 
 
 ## 🌐 Socials:
